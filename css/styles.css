@@ -1,0 +1,42 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+  background-color: #d3d3d3;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 15px;
+}
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px grey;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-nav {
+  background-color: white;
+}
+li a{
+  text-align: center;
+}
+
+.specialmargin{
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #d3d3d3;
+}
+
+p span{
+  font-weight: bold;
+  text-align: center;
+}
